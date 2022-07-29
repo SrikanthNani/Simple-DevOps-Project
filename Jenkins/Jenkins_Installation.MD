@@ -58,4 +58,4 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 	Execute shell: echo "Welcome to Jenkins Demo"
 1. Save your job 
 1. Build job
-1. Check "console output"
+1. Check "console output" for the logs
